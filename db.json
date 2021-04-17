@@ -1,6 +1,6 @@
 {
   "students": [
     { "id": "i400858", "firstName": "Denitsa", "lastName": "Pavlova" },
-    { "id": "i403931", "firstName": "Kalina", "lastNmae": "Atanasova" },
+    { "id": "i403931", "firstName": "Kalina", "lastNmae": "Atanasova" }
   ]
 }
