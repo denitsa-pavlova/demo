@@ -1,7 +1,7 @@
 {
   "students": [
-    { "id": "i400858", "firstName": "Denitsa", "lastName":"Pavlova", password:"1234" },
-    { "id": "i400967", "firstName": "John", "lastName":"Doe", password: "5678"}
+    { "id": "i400858", "firstName": "Denitsa", "lastName":"Pavlova", "password":"1234" },
+    { "id": "i400967", "firstName": "John", "lastName":"Doe", "password": "5678"}
 ],
   "profile": {
     "name": "typicode"
