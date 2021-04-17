@@ -1,7 +1,7 @@
 {
   "students": [
     { "id": "i400858", "firstName": "Denitsa", "lastName":"Pavlova" },
-    { "id": 2, "firstName": "Kristina", "lastName":"Krasteva"}
+    { "id": "i400967", "firstName": "Kristina", "lastName":"Krasteva"}
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
